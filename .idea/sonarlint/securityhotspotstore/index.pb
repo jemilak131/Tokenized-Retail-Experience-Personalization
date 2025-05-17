@@ -7,3 +7,5 @@ R
 "contracts/engagement-tracking.clar,c/2/c2909d48bd35a33e2e38b5bbdf5e2b9436e14e9c
 R
 "contracts/preference-tracking.clar,e/c/ec77c1bcaf360bcf8841e8a6a587ff879fcb1082
+M
+contracts/recommendation.clar,3/9/3909f1f704741e29e6b195257113073aa3ab509f
