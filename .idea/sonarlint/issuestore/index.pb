@@ -9,3 +9,5 @@ R
 "contracts/preference-tracking.clar,e/c/ec77c1bcaf360bcf8841e8a6a587ff879fcb1082
 M
 contracts/recommendation.clar,3/9/3909f1f704741e29e6b195257113073aa3ab509f
+T
+$contracts/retailer-verification.clar,4/c/4cd63bde59c128f63d5d1cef0a66211a61753953
