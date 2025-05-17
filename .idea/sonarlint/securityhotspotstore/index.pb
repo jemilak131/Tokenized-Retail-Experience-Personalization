@@ -5,3 +5,5 @@ P
  contracts/consumer-identity.clar,0/b/0b6d7a97250993d1ddc0697ec386c4f899018ff0
 R
 "contracts/engagement-tracking.clar,c/2/c2909d48bd35a33e2e38b5bbdf5e2b9436e14e9c
+R
+"contracts/preference-tracking.clar,e/c/ec77c1bcaf360bcf8841e8a6a587ff879fcb1082
